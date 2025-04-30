@@ -17,7 +17,7 @@ Complete el código siguiendo las instrucciones que aparecen en `word_count.py`.
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python3 -m venv .venv
+py -m venv .venv
 source .venv/bin/activate
 source setup.sh
 ```
@@ -37,7 +37,7 @@ Ejecute los siguientes comandos en el terminal:
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python3 -m venv .venv
+py -m venv .venv
 .venv\Scripts\activate
 setup
 ```
